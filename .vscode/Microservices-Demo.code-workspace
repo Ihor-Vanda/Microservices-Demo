@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"mpi.h": "c",
+			"time.h": "c",
+			"initializer_list": "c",
+			"type_traits": "c",
+			"xstring": "c",
+			"xutility": "c",
+			"random": "c",
+			"cmath": "c"
+		}
+	}
+}
