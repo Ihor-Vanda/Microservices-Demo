@@ -1,0 +1,188 @@
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.csproj.AssemblyReference.cache
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.AssemblyInfoInputs.cache
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.AssemblyInfo.cs
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.csproj.CoreCompileInputs.cache
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.MvcApplicationPartsAssemblyInfo.cs
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.MvcApplicationPartsAssemblyInfo.cache
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\appsettings.Development.json
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\appsettings.json
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\Demo.Catalog.Service.exe
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\Demo.Catalog.Service.deps.json
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\Demo.Catalog.Service.runtimeconfig.json
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\Demo.Catalog.Service.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\Demo.Catalog.Service.pdb
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\AWSSDK.Core.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\DnsClient.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\MongoDB.Bson.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\MongoDB.Driver.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\SharpCompress.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\Snappier.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\ZstdSharp.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets\msbuild.Demo.Catalog.Service.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets\msbuild.build.Demo.Catalog.Service.props
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Demo.Catalog.Service.props
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Demo.Catalog.Service.props
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets.build.json
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets.development.json
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\obj\Debug\net7.0\scopedcss\bundle\Demo.Catalog.Service.styles.css
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.csproj.CopyComplete
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\obj\Debug\net7.0\refint\Demo.Catalog.Service.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.pdb
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.genruntimeconfig.cache
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\src\Demo.Catalog.Service\obj\Debug\net7.0\ref\Demo.Catalog.Service.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\appsettings.Development.json
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\appsettings.json
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Demo.Catalog.Service.exe
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Demo.Catalog.Service.deps.json
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Demo.Catalog.Service.runtimeconfig.json
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Demo.Catalog.Service.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Demo.Catalog.Service.pdb
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\AWSSDK.Core.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\DnsClient.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\MongoDB.Bson.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\MongoDB.Driver.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\SharpCompress.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Snappier.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\ZstdSharp.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.csproj.AssemblyReference.cache
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.AssemblyInfoInputs.cache
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.AssemblyInfo.cs
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.csproj.CoreCompileInputs.cache
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.MvcApplicationPartsAssemblyInfo.cs
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.MvcApplicationPartsAssemblyInfo.cache
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets\msbuild.Demo.Catalog.Service.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets\msbuild.build.Demo.Catalog.Service.props
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Demo.Catalog.Service.props
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Demo.Catalog.Service.props
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets.build.json
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets.development.json
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\scopedcss\bundle\Demo.Catalog.Service.styles.css
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.csproj.CopyComplete
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\refint\Demo.Catalog.Service.dll
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.pdb
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.genruntimeconfig.cache
+G:\Інші комп’ютери\Мій ноутбук\Університет\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\ref\Demo.Catalog.Service.dll
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\appsettings.Development.json
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\appsettings.json
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Demo.Catalog.Service.exe
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Demo.Catalog.Service.deps.json
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Demo.Catalog.Service.runtimeconfig.json
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Demo.Catalog.Service.dll
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Demo.Catalog.Service.pdb
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\AWSSDK.Core.dll
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Demo.Common.dll
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\DnsClient.dll
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\MongoDB.Bson.dll
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\MongoDB.Driver.dll
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\SharpCompress.dll
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Snappier.dll
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\ZstdSharp.dll
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.csproj.AssemblyReference.cache
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.AssemblyInfoInputs.cache
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.AssemblyInfo.cs
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.csproj.CoreCompileInputs.cache
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets\msbuild.Demo.Catalog.Service.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets\msbuild.build.Demo.Catalog.Service.props
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Demo.Catalog.Service.props
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Demo.Catalog.Service.props
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets.build.json
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets.development.json
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\scopedcss\bundle\Demo.Catalog.Service.styles.css
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.csproj.CopyComplete
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.dll
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\refint\Demo.Catalog.Service.dll
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.pdb
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.genruntimeconfig.cache
+E:\Projects\Microservices-Demo\sync_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\ref\Demo.Catalog.Service.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\appsettings.Development.json
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\appsettings.json
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Demo.Catalog.Service.exe
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Demo.Catalog.Service.deps.json
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Demo.Catalog.Service.runtimeconfig.json
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Demo.Catalog.Service.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Demo.Catalog.Service.pdb
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\AWSSDK.Core.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Demo.Common.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\DnsClient.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\MongoDB.Bson.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\MongoDB.Driver.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\SharpCompress.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Snappier.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\ZstdSharp.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.csproj.AssemblyReference.cache
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.AssemblyInfoInputs.cache
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.AssemblyInfo.cs
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.csproj.CoreCompileInputs.cache
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets\msbuild.Demo.Catalog.Service.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets\msbuild.build.Demo.Catalog.Service.props
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Demo.Catalog.Service.props
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Demo.Catalog.Service.props
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets.build.json
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\staticwebassets.development.json
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\scopedcss\bundle\Demo.Catalog.Service.styles.css
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.csproj.CopyComplete
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\refint\Demo.Catalog.Service.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.pdb
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.genruntimeconfig.cache
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\ref\Demo.Catalog.Service.dll

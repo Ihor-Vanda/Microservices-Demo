@@ -1,0 +1,12 @@
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Common\Demo.RabbitMQ\bin\Debug\net7.0\Demo.RabbitMQ.deps.json
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Common\Demo.RabbitMQ\bin\Debug\net7.0\Demo.RabbitMQ.dll
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Common\Demo.RabbitMQ\bin\Debug\net7.0\Demo.RabbitMQ.pdb
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Common\Demo.RabbitMQ\obj\Debug\net7.0\Demo.RabbitMQ.csproj.AssemblyReference.cache
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Common\Demo.RabbitMQ\obj\Debug\net7.0\Demo.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Common\Demo.RabbitMQ\obj\Debug\net7.0\Demo.RabbitMQ.AssemblyInfoInputs.cache
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Common\Demo.RabbitMQ\obj\Debug\net7.0\Demo.RabbitMQ.AssemblyInfo.cs
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Common\Demo.RabbitMQ\obj\Debug\net7.0\Demo.RabbitMQ.csproj.CoreCompileInputs.cache
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Common\Demo.RabbitMQ\obj\Debug\net7.0\Demo.RabbitMQ.dll
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Common\Demo.RabbitMQ\obj\Debug\net7.0\refint\Demo.RabbitMQ.dll
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Common\Demo.RabbitMQ\obj\Debug\net7.0\Demo.RabbitMQ.pdb
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Common\Demo.RabbitMQ\obj\Debug\net7.0\ref\Demo.RabbitMQ.dll

@@ -1,0 +1,12 @@
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Catalog\src\Demo.Catalog.Contracts\bin\Debug\net7.0\Demo.Catalog.Contracts.deps.json
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Catalog\src\Demo.Catalog.Contracts\bin\Debug\net7.0\Demo.Catalog.Contracts.dll
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Catalog\src\Demo.Catalog.Contracts\bin\Debug\net7.0\Demo.Catalog.Contracts.pdb
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Catalog\src\Demo.Catalog.Contracts\obj\Debug\net7.0\Demo.Catalog.Contracts.csproj.AssemblyReference.cache
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Catalog\src\Demo.Catalog.Contracts\obj\Debug\net7.0\Demo.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Catalog\src\Demo.Catalog.Contracts\obj\Debug\net7.0\Demo.Catalog.Contracts.AssemblyInfoInputs.cache
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Catalog\src\Demo.Catalog.Contracts\obj\Debug\net7.0\Demo.Catalog.Contracts.AssemblyInfo.cs
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Catalog\src\Demo.Catalog.Contracts\obj\Debug\net7.0\Demo.Catalog.Contracts.csproj.CoreCompileInputs.cache
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Catalog\src\Demo.Catalog.Contracts\obj\Debug\net7.0\Demo.Catalog.Contracts.dll
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Catalog\src\Demo.Catalog.Contracts\obj\Debug\net7.0\refint\Demo.Catalog.Contracts.dll
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Catalog\src\Demo.Catalog.Contracts\obj\Debug\net7.0\Demo.Catalog.Contracts.pdb
+E:\Projects\Microservices-Demo\async_demo\mq_rabbit_demo\Demo.Catalog\src\Demo.Catalog.Contracts\obj\Debug\net7.0\ref\Demo.Catalog.Contracts.dll
