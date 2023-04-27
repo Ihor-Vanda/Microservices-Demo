@@ -38,6 +38,15 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+
+    var Configuration = builder.Configuration;
+    var AllowedOriginSettings = "AllowedOrigin";
+    app.UseCors(builder =>
+    {
+        builder.WithOrigins(Configuration[AllowedOriginSettings])
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+    });
 }
 
 app.UseHttpsRedirection();

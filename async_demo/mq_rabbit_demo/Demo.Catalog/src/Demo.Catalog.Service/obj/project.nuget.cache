@@ -1,19 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "hNE7nrYhCC3iJ6tkzamFDpqqzKVywR5JP+ny81CspybzyL9iabKCDLl4RQ5unLizAmmK+iU/QPTrLJ9/1q2xSA==",
+  "dgSpecHash": "Cjz8xEso5GgytO2N2ZZse9I5nhw0qByWtUgOVIim5IURUjkYDi18hBUyBPQuJ+FQe7sY/5q6cUmlf7TYz2qK7Q==",
   "success": true,
   "projectFilePath": "E:\\Projects\\Microservices-Demo\\async_demo\\mq_rabbit_demo\\Demo.Catalog\\src\\Demo.Catalog.Service\\Demo.Catalog.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vanda\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\vanda\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
-    "C:\\Users\\vanda\\.nuget\\packages\\demo.common\\1.0.1\\demo.common.1.0.1.nupkg.sha512",
+    "C:\\Users\\vanda\\.nuget\\packages\\demo.common\\1.0.2\\demo.common.1.0.2.nupkg.sha512",
     "C:\\Users\\vanda\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\vanda\\.nuget\\packages\\masstransit\\8.0.15\\masstransit.8.0.15.nupkg.sha512",
     "C:\\Users\\vanda\\.nuget\\packages\\masstransit.abstractions\\8.0.15\\masstransit.abstractions.8.0.15.nupkg.sha512",
     "C:\\Users\\vanda\\.nuget\\packages\\masstransit.aspnetcore\\7.3.1\\masstransit.aspnetcore.7.3.1.nupkg.sha512",
     "C:\\Users\\vanda\\.nuget\\packages\\masstransit.extensions.dependencyinjection\\7.3.1\\masstransit.extensions.dependencyinjection.7.3.1.nupkg.sha512",
     "C:\\Users\\vanda\\.nuget\\packages\\masstransit.rabbitmq\\8.0.15\\masstransit.rabbitmq.8.0.15.nupkg.sha512",
-    "C:\\Users\\vanda\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.4\\microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
+    "C:\\Users\\vanda\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\vanda\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\vanda\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\vanda\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
@@ -37,10 +37,10 @@
     "C:\\Users\\vanda\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
     "C:\\Users\\vanda\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
     "C:\\Users\\vanda\\.nuget\\packages\\snappier\\1.0.0\\snappier.1.0.0.nupkg.sha512",
-    "C:\\Users\\vanda\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
-    "C:\\Users\\vanda\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
-    "C:\\Users\\vanda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "C:\\Users\\vanda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\vanda\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\vanda\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\vanda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\vanda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "C:\\Users\\vanda\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\vanda\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\vanda\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
@@ -52,7 +52,8 @@
     "C:\\Users\\vanda\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\vanda\\.nuget\\packages\\system.text.json\\6.0.7\\system.text.json.6.0.7.nupkg.sha512",
     "C:\\Users\\vanda\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
-    "C:\\Users\\vanda\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512"
+    "C:\\Users\\vanda\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512",
+    "C:\\Users\\vanda\\.nuget\\packages\\demo.catalog.contracts\\1.0.0\\demo.catalog.contracts.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }

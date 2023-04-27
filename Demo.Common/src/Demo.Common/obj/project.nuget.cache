@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VE5/dcmNeLjBciv735JR18T8Lpd0d1hvpQtiRMi0BjV7omkRowc0vKmATuTjkRKcIWrNlmfQa9hrAhRx6QQrBw==",
+  "dgSpecHash": "jCHkHjddbd9a+CERCVqPL39rYxkVCZlgC5LFPz9MZM6FwopdqKiDRV7moYGPK8b8t6Cn/pZIIhSIJZXXhDrTkw==",
   "success": true,
   "projectFilePath": "E:\\Projects\\Microservices-Demo\\Demo.Common\\src\\Demo.Common\\Demo.Common.csproj",
   "expectedPackageFiles": [

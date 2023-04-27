@@ -1854,7 +1854,7 @@
     "C:\\Users\\vanda\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "restore": {
       "projectUniqueName": "E:\\Projects\\Microservices-Demo\\Demo.Common\\src\\Demo.Common\\Demo.Common.csproj",
       "projectName": "Demo.Common",
@@ -1872,7 +1872,9 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Users\\packages\\": {},
+        "C:\\Users\\vanda\\AppData\\Roaming\\packages\\": {},
         "C:\\Users\\vanda\\AppData\\Roaming\\packges\\": {},
+        "E:\\Projects\\Microservices-Demo\\async_demo\\mq_rabbit_demo\\packages\\": {},
         "E:\\Projects\\Microservices-Demo\\packages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },

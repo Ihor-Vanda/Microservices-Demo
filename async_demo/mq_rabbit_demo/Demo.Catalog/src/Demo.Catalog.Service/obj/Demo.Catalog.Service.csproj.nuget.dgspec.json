@@ -22,8 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\packages\\": {},
-          "C:\\Users\\vanda\\AppData\\Roaming\\packges\\": {},
           "E:\\Projects\\Microservices-Demo\\packages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -80,8 +78,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\packages\\": {},
-          "C:\\Users\\vanda\\AppData\\Roaming\\packges\\": {},
           "E:\\Projects\\Microservices-Demo\\packages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -107,15 +103,19 @@
           "dependencies": {
             "Demo.Common": {
               "target": "Package",
-              "version": "[1.0.1, )"
+              "version": "[1.0.2, )"
+            },
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.1, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[7.0.4, )"
+              "version": "[7.0.5, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [

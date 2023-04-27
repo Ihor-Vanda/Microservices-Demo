@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Demo.Common
-build_property.ProjectDir = E:\Projects\Microservices-Demo\Demo.Common\src\Demo.Common\
+build_property.ProjectDir = e:\Projects\Microservices-Demo\Demo.Common\src\Demo.Common\
