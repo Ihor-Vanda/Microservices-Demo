@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\Microservices-Demo\\Demo.Common\\src\\Demo.Common\\Demo.Common.csproj": {}
+    "e:\\Projects\\Microservices-Demo\\Demo.Common\\src\\Demo.Common\\Demo.Common.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\Microservices-Demo\\Demo.Common\\src\\Demo.Common\\Demo.Common.csproj": {
-      "version": "1.0.2",
+    "e:\\Projects\\Microservices-Demo\\Demo.Common\\src\\Demo.Common\\Demo.Common.csproj": {
+      "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Microservices-Demo\\Demo.Common\\src\\Demo.Common\\Demo.Common.csproj",
+        "projectUniqueName": "e:\\Projects\\Microservices-Demo\\Demo.Common\\src\\Demo.Common\\Demo.Common.csproj",
         "projectName": "Demo.Common",
-        "projectPath": "E:\\Projects\\Microservices-Demo\\Demo.Common\\src\\Demo.Common\\Demo.Common.csproj",
+        "projectPath": "e:\\Projects\\Microservices-Demo\\Demo.Common\\src\\Demo.Common\\Demo.Common.csproj",
         "packagesPath": "C:\\Users\\vanda\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Microservices-Demo\\Demo.Common\\src\\Demo.Common\\obj\\",
+        "outputPath": "e:\\Projects\\Microservices-Demo\\Demo.Common\\src\\Demo.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vanda\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,10 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\packages\\": {},
-          "C:\\Users\\vanda\\AppData\\Roaming\\packages\\": {},
-          "C:\\Users\\vanda\\AppData\\Roaming\\packges\\": {},
-          "E:\\Projects\\Microservices-Demo\\async_demo\\mq_rabbit_demo\\packages\\": {},
           "E:\\Projects\\Microservices-Demo\\packages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -48,6 +44,10 @@
             "MassTransit.AspNetCore": {
               "target": "Package",
               "version": "[7.3.1, )"
+            },
+            "MassTransit.Kafka": {
+              "target": "Package",
+              "version": "[8.0.15, )"
             },
             "MassTransit.RabbitMQ": {
               "target": "Package",

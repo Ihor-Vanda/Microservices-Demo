@@ -186,3 +186,9 @@ E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Ca
 E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.pdb
 E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\Demo.Catalog.Service.genruntimeconfig.cache
 E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\obj\Debug\net7.0\ref\Demo.Catalog.Service.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\MassTransit.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\MassTransit.Abstractions.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\MassTransit.AspNetCoreIntegration.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\MassTransit.RabbitMqTransport.dll
+E:\Projects\Microservices-Demo\sync_demo\rest_http_demo\Demo.Catalog\src\Demo.Catalog.Service\bin\Debug\net7.0\RabbitMQ.Client.dll

@@ -28,12 +28,16 @@ if (app.Environment.IsDevelopment())
 
     var Configuration = builder.Configuration;
     var AllowedOriginSettings = "AllowedOrigin";
-    app.UseCors(builder =>
+    var origin = Configuration[AllowedOriginSettings];
+    if (origin != null)
     {
-        builder.WithOrigins(Configuration[AllowedOriginSettings])
-            .AllowAnyHeader()
-            .AllowAnyMethod();
-    });
+        app.UseCors(builder =>
+        {
+            builder.WithOrigins(origin)
+                .AllowAnyHeader()
+                .AllowAnyMethod();
+        });
+    }
 }
 
 app.UseHttpsRedirection();

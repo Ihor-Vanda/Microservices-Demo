@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rCR2SO8JmMTX44BS5LHAYGnvOIacr0E1d0eGFeqb2uU=",
+  "Source": "Demo.Catalog.Service",
+  "BasePath": "_content/Demo.Catalog.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

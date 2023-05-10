@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projects\\Microservices-Demo\\async_demo\\mq_rabbit_demo\\Demo.Bascket\\src\\Demo.Bascket.Service\\Demo.Bascket.Service.csproj": {}
+  },
+  "projects": {
+    "E:\\Projects\\Microservices-Demo\\async_demo\\mq_rabbit_demo\\Demo.Bascket\\src\\Demo.Bascket.Service\\Demo.Bascket.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Microservices-Demo\\async_demo\\mq_rabbit_demo\\Demo.Bascket\\src\\Demo.Bascket.Service\\Demo.Bascket.Service.csproj",
+        "projectName": "Demo.Bascket.Service",
+        "projectPath": "E:\\Projects\\Microservices-Demo\\async_demo\\mq_rabbit_demo\\Demo.Bascket\\src\\Demo.Bascket.Service\\Demo.Bascket.Service.csproj",
+        "packagesPath": "C:\\Users\\vanda\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Microservices-Demo\\async_demo\\mq_rabbit_demo\\Demo.Bascket\\src\\Demo.Bascket.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vanda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\Projects\\Microservices-Demo\\packages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Demo.Catalog.Contracts": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Demo.Common": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

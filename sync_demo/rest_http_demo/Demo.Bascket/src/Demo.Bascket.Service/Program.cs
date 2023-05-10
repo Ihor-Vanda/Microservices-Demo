@@ -8,8 +8,6 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddMongo().AddMongoRepository<BascketItem>("bascketitems");
 
-Random jitter = new Random();
-
 builder.Services.AddHttpClient<CatalogClient>(client =>
 {
     client.BaseAddress = new Uri("http://localhost:5124");
@@ -17,7 +15,6 @@ builder.Services.AddHttpClient<CatalogClient>(client =>
 .AddTransientHttpErrorPolicy(builder => builder.Or<TimeoutRejectedException>().WaitAndRetryAsync(
     5,
     retryAttemp => TimeSpan.FromSeconds(Math.Pow(2, retryAttemp))
-                    + TimeSpan.FromMilliseconds(jitter.Next(0, 1000))
 ))
 .AddTransientHttpErrorPolicy(builder => builder.Or<TimeoutRejectedException>().CircuitBreakerAsync(
     3,
@@ -41,12 +38,16 @@ if (app.Environment.IsDevelopment())
 
     var Configuration = builder.Configuration;
     var AllowedOriginSettings = "AllowedOrigin";
-    app.UseCors(builder =>
+    var origin = Configuration[AllowedOriginSettings];
+    if (origin != null)
     {
-        builder.WithOrigins(Configuration[AllowedOriginSettings])
-            .AllowAnyHeader()
-            .AllowAnyMethod();
-    });
+        app.UseCors(builder =>
+        {
+            builder.WithOrigins(origin)
+                .AllowAnyHeader()
+                .AllowAnyMethod();
+        });
+    }
 }
 
 app.UseHttpsRedirection();

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "4y/oeEEukf4GO2h4McDMuj6qDSd0HFEPTnGasnZBY+3n0i476K2W1I4CJIlZ+3Mk+/SF5HVEFji1ffbvUKOFCg==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Microservices-Demo\\sync_demo\\grpc_demo\\Demo.Basket\\src\\GPRCClient\\GPRCClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vanda\\.nuget\\packages\\google.protobuf\\3.23.0\\google.protobuf.3.23.0.nupkg.sha512",
+    "C:\\Users\\vanda\\.nuget\\packages\\grpc.core.api\\2.53.0\\grpc.core.api.2.53.0.nupkg.sha512",
+    "C:\\Users\\vanda\\.nuget\\packages\\grpc.net.client\\2.53.0\\grpc.net.client.2.53.0.nupkg.sha512",
+    "C:\\Users\\vanda\\.nuget\\packages\\grpc.net.common\\2.53.0\\grpc.net.common.2.53.0.nupkg.sha512",
+    "C:\\Users\\vanda\\.nuget\\packages\\grpc.tools\\2.54.0\\grpc.tools.2.54.0.nupkg.sha512",
+    "C:\\Users\\vanda\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\vanda\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

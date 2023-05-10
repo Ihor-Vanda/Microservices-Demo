@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Demo.Bascket.Service/bin/Debug/net7.0/Demo.Bascket.Service.dll",
+            "program": "${workspaceFolder}/src/Demo.Bascket.Service/bin/Debug/net7.0/Demo.Bascket.Service.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Demo.Bascket.Service",
+            "cwd": "${workspaceFolder}/src/Demo.Bascket.Service",
             "stopAtEntry": false,
             // Enable launching a web browser when ASP.NET Core starts. For more information: https://aka.ms/VSCode-CS-LaunchJson-WebBrowser
             // "serverReadyAction": {
