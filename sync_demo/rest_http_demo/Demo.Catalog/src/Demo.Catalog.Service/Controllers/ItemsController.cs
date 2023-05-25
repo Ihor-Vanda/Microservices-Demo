@@ -10,6 +10,7 @@ namespace Demo.Catalog.Service.Controllers
     public class ItemController : ControllerBase
     {
         private readonly IRepository<Item> itemsRepository;
+        private static int count = 0;
 
         public ItemController(IRepository<Item> itemsRepository)
         {
@@ -19,6 +20,8 @@ namespace Demo.Catalog.Service.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<ItemDto>>> GetAsync()
         {
+            count++;
+            Console.WriteLine("Request #" + count);
             var items = (await itemsRepository.GetAllAsync()).Select(item => item.AsDto());
 
             return Ok(items);

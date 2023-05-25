@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GPRCClient
-build_property.ProjectDir = E:\Projects\Microservices-Demo\sync_demo\grpc_demo\Demo.Basket\src\GPRCClient\
+build_property.ProjectDir = e:\Projects\Microservices-Demo\sync_demo\grpc_demo\Demo.Basket\src\GPRCClient\

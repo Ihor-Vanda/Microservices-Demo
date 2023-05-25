@@ -5,7 +5,7 @@ using Demo.Common.MongoDB;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddMongo()
-    .AddMongoRepository<BascketItem>("bascketitems")
+    .AddMongoRepository<BascketItem>("basketitems")
     .AddMongoRepository<CatalogItem>("catalogitems")
     .AddMassTransitWithRabbitMq();
 

@@ -13,7 +13,8 @@ namespace Demo.Bascket.Service.Clients
 
         public async Task<IReadOnlyCollection<CatalogItemDto>> GetCalatogItemsAsync()
         {
-            var items = await httpClient.GetFromJsonAsync<IReadOnlyCollection<CatalogItemDto>>("/items");
+            var items = await httpClient
+                .GetFromJsonAsync<IReadOnlyCollection<CatalogItemDto>>("/items");
             return items ?? throw new HttpRequestException();
         }
     }

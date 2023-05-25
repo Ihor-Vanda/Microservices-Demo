@@ -2,7 +2,6 @@ using Demo.Common;
 
 namespace Demo.Catalog.Service.Entities
 {
-
     public class Item : IEntity
     {
         public Guid Id { get; set; }

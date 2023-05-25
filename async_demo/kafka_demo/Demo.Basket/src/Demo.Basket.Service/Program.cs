@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddMongo()
-    .AddMongoRepository<BascketItem>("bascketitems")
+    .AddMongoRepository<BascketItem>("basketitems")
     .AddMongoRepository<CatalogItem>("catalogitems");
 
 builder.Services.AddHostedService<CatalogItemCreatedConsumer>();
